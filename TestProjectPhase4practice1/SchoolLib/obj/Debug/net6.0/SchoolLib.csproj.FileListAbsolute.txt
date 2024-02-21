@@ -1,0 +1,11 @@
+C:\Users\sss\source\repos\TestProjectPhase4practice1\SchoolLib\bin\Debug\net6.0\SchoolLib.deps.json
+C:\Users\sss\source\repos\TestProjectPhase4practice1\SchoolLib\bin\Debug\net6.0\SchoolLib.dll
+C:\Users\sss\source\repos\TestProjectPhase4practice1\SchoolLib\bin\Debug\net6.0\SchoolLib.pdb
+C:\Users\sss\source\repos\TestProjectPhase4practice1\SchoolLib\obj\Debug\net6.0\SchoolLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sss\source\repos\TestProjectPhase4practice1\SchoolLib\obj\Debug\net6.0\SchoolLib.AssemblyInfoInputs.cache
+C:\Users\sss\source\repos\TestProjectPhase4practice1\SchoolLib\obj\Debug\net6.0\SchoolLib.AssemblyInfo.cs
+C:\Users\sss\source\repos\TestProjectPhase4practice1\SchoolLib\obj\Debug\net6.0\SchoolLib.csproj.CoreCompileInputs.cache
+C:\Users\sss\source\repos\TestProjectPhase4practice1\SchoolLib\obj\Debug\net6.0\SchoolLib.dll
+C:\Users\sss\source\repos\TestProjectPhase4practice1\SchoolLib\obj\Debug\net6.0\refint\SchoolLib.dll
+C:\Users\sss\source\repos\TestProjectPhase4practice1\SchoolLib\obj\Debug\net6.0\SchoolLib.pdb
+C:\Users\sss\source\repos\TestProjectPhase4practice1\SchoolLib\obj\Debug\net6.0\ref\SchoolLib.dll
